@@ -9,3 +9,4 @@ git is a good master
 Git tracks change
 
 creating a new branch is quick AND simple
+test --no-ff
